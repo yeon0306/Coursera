@@ -39,3 +39,6 @@
 - Explore how RNNs and ConvNets can be used for predictions
 
 - Build a sunspot prediction model using real-world data
+
+
+![코세라수료증](https://github.com/yeon0306/Coursera_Tensorflow/assets/112537146/049ed513-5b4b-4706-9e12-289b2f230512)

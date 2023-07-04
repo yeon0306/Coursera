@@ -40,5 +40,11 @@
 
 - Build a sunspot prediction model using real-world data
 
+# DeepLearning.AI TensorFlow Developer
 
-![코세라수료증](https://github.com/yeon0306/Coursera_Tensorflow/assets/112537146/049ed513-5b4b-4706-9e12-289b2f230512)
+<div><img src = "https://github.com/yeon0306/Coursera_Tensorflow/assets/112537146/049ed513-5b4b-4706-9e12-289b2f230512" width="600"></div>
+
+# TensorFlow Developer Certificate 
+
+<div><img src = "https://github.com/yeon0306/Coursera_Tensorflow/assets/112537146/2f408fdd-dc7a-40d8-b9f8-b5dfd329b7d2" width="600"></div>
+
